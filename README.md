@@ -1,0 +1,1 @@
+# Shamir-s_Secret_Sharing_algorithm
