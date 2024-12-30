@@ -14,5 +14,5 @@ c using polynomial interpolation methods. The task involves:
 Reading and parsing the input test cases in JSON format.
 Decoding the Y values based on the specified base for each root.
 Solving for the constant term 
-𝑐
+𝑐 
 c of the polynomial using the decoded values.
